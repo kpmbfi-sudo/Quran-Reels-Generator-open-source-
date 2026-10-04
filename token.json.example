@@ -1,0 +1,10 @@
+{
+  "token": "هنا_رمز_الوصول_المؤقت_access_token_الذي_يتم_توليده_تلقائيا_بواسطة_السكربت",
+  "refresh_token": "هنا_رمز_التحديث_refresh_token_الذي_يتم_وضعه_في_GitHub_Secrets",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "client_id": "هنا_معرف_العميل_client_id_الخاص_بك",
+  "client_secret": "هنا_الرمز_السري_client_secret_الخاص_بك",
+  "scopes": [
+    "https://www.googleapis.com/auth/youtube.upload"
+  ]
+}

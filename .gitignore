@@ -1,0 +1,39 @@
+# Secrets - NEVER upload these!
+client_secret*.json
+client_secret.json
+token*.json
+token.json
+.env
+*.env
+*.pickle
+
+# Whitelist examples
+!client_secret.json.example
+!token.json.example
+!.env.example
+
+# Output files
+outputs/
+*.mp4
+test_*.png
+thumbnails/
+
+# Background videos (too large for GitHub)
+vision/
+
+# Logs
+*.log
+runlog.txt
+auto_generate.log
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+
+# IDE & OS
+.vscode/
+.idea/
+Thumbs.db
+.DS_Store
+state_backup.json
