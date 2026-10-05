@@ -1,6 +1,6 @@
 {
-  "total_generated": 4,
-  "last_reciter_idx": 4,
+  "total_generated": 5,
+  "last_reciter_idx": 5,
   "last_surah": 1,
   "last_ayah": 0,
   "last_generated": null,
@@ -44,6 +44,16 @@
       "duration": 21.3,
       "video_id": null,
       "date": "2026-10-05 19:47:00"
+    },
+    {
+      "surah": 39,
+      "surah_name": "الزمر",
+      "start_ayah": 72,
+      "end_ayah": 73,
+      "reciter": "مشاري العفاسي",
+      "duration": 45.2,
+      "video_id": null,
+      "date": "2026-10-05 23:14:17"
     }
   ]
 }
