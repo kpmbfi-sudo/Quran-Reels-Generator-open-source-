@@ -1,6 +1,6 @@
 {
-  "total_generated": 1,
-  "last_reciter_idx": 1,
+  "total_generated": 2,
+  "last_reciter_idx": 2,
   "last_surah": 1,
   "last_ayah": 0,
   "last_generated": null,
@@ -14,6 +14,16 @@
       "duration": 64.8,
       "video_id": null,
       "date": "2026-10-04 20:17:02"
+    },
+    {
+      "surah": 88,
+      "surah_name": "الغاشية",
+      "start_ayah": 3,
+      "end_ayah": 15,
+      "reciter": "محمد صديق المنشاوي (مرتل)",
+      "duration": 60.9,
+      "video_id": null,
+      "date": "2026-10-05 05:56:05"
     }
   ]
 }
