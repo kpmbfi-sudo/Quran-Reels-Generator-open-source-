@@ -1,6 +1,6 @@
 {
-  "total_generated": 9,
-  "last_reciter_idx": 9,
+  "total_generated": 10,
+  "last_reciter_idx": 10,
   "last_surah": 1,
   "last_ayah": 0,
   "last_generated": null,
@@ -94,6 +94,16 @@
       "duration": 60.2,
       "video_id": null,
       "date": "2026-10-06 21:43:57"
+    },
+    {
+      "surah": 89,
+      "surah_name": "الفجر",
+      "start_ayah": 10,
+      "end_ayah": 19,
+      "reciter": "ياسر الدوسري",
+      "duration": 59.8,
+      "video_id": null,
+      "date": "2026-10-07 06:13:42"
     }
   ]
 }
