@@ -1,6 +1,6 @@
 {
-  "total_generated": 10,
-  "last_reciter_idx": 10,
+  "total_generated": 11,
+  "last_reciter_idx": 11,
   "last_surah": 1,
   "last_ayah": 0,
   "last_generated": null,
@@ -104,6 +104,16 @@
       "duration": 59.8,
       "video_id": null,
       "date": "2026-10-07 06:13:42"
+    },
+    {
+      "surah": 46,
+      "surah_name": "الأحقاف",
+      "start_ayah": 26,
+      "end_ayah": 27,
+      "reciter": "ناصر القطامي",
+      "duration": 60.6,
+      "video_id": null,
+      "date": "2026-10-07 12:03:32"
     }
   ]
 }
