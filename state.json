@@ -1,6 +1,6 @@
 {
-  "total_generated": 12,
-  "last_reciter_idx": 12,
+  "total_generated": 13,
+  "last_reciter_idx": 13,
   "last_surah": 1,
   "last_ayah": 0,
   "last_generated": null,
@@ -124,6 +124,16 @@
       "duration": 50.1,
       "video_id": null,
       "date": "2026-10-07 18:09:48"
+    },
+    {
+      "surah": 80,
+      "surah_name": "عبس",
+      "start_ayah": 8,
+      "end_ayah": 21,
+      "reciter": "أبو بكر الشاطري",
+      "duration": 56.8,
+      "video_id": null,
+      "date": "2026-10-07 22:04:18"
     }
   ]
 }
