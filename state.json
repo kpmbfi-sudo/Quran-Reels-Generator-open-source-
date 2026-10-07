@@ -1,6 +1,6 @@
 {
-  "total_generated": 11,
-  "last_reciter_idx": 11,
+  "total_generated": 12,
+  "last_reciter_idx": 12,
   "last_surah": 1,
   "last_ayah": 0,
   "last_generated": null,
@@ -114,6 +114,16 @@
       "duration": 60.6,
       "video_id": null,
       "date": "2026-10-07 12:03:32"
+    },
+    {
+      "surah": 93,
+      "surah_name": "الضحى",
+      "start_ayah": 1,
+      "end_ayah": 11,
+      "reciter": "أحمد العجمي",
+      "duration": 50.1,
+      "video_id": null,
+      "date": "2026-10-07 18:09:48"
     }
   ]
 }
