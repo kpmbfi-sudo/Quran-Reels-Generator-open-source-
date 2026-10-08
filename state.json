@@ -1,6 +1,6 @@
 {
-  "total_generated": 13,
-  "last_reciter_idx": 13,
+  "total_generated": 14,
+  "last_reciter_idx": 0,
   "last_surah": 1,
   "last_ayah": 0,
   "last_generated": null,
@@ -134,6 +134,16 @@
       "duration": 56.8,
       "video_id": null,
       "date": "2026-10-07 22:04:18"
+    },
+    {
+      "surah": 54,
+      "surah_name": "القمر",
+      "start_ayah": 50,
+      "end_ayah": 55,
+      "reciter": "عبدالباسط عبدالصمد (مرتل)",
+      "duration": 48.7,
+      "video_id": null,
+      "date": "2026-10-08 06:20:31"
     }
   ]
 }
