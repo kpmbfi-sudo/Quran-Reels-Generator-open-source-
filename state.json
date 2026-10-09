@@ -1,6 +1,6 @@
 {
-  "total_generated": 17,
-  "last_reciter_idx": 3,
+  "total_generated": 18,
+  "last_reciter_idx": 4,
   "last_surah": 1,
   "last_ayah": 0,
   "last_generated": null,
@@ -174,6 +174,16 @@
       "duration": 59.6,
       "video_id": null,
       "date": "2026-10-08 22:13:37"
+    },
+    {
+      "surah": 112,
+      "surah_name": "الإخلاص",
+      "start_ayah": 3,
+      "end_ayah": 4,
+      "reciter": "محمود خليل الحصري",
+      "duration": 21.3,
+      "video_id": null,
+      "date": "2026-10-09 06:20:05"
     }
   ]
 }
