@@ -1,6 +1,6 @@
 {
-  "total_generated": 22,
-  "last_reciter_idx": 8,
+  "total_generated": 23,
+  "last_reciter_idx": 9,
   "last_surah": 1,
   "last_ayah": 0,
   "last_generated": null,
@@ -224,6 +224,16 @@
       "duration": 55.8,
       "video_id": null,
       "date": "2026-10-10 11:25:47"
+    },
+    {
+      "surah": 101,
+      "surah_name": "القارعة",
+      "start_ayah": 2,
+      "end_ayah": 11,
+      "reciter": "سعد الغامدي",
+      "duration": 43.8,
+      "video_id": null,
+      "date": "2026-10-10 16:26:01"
     }
   ]
 }
