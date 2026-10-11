@@ -1,6 +1,6 @@
 {
-  "total_generated": 24,
-  "last_reciter_idx": 10,
+  "total_generated": 25,
+  "last_reciter_idx": 11,
   "last_surah": 1,
   "last_ayah": 0,
   "last_generated": null,
@@ -244,6 +244,16 @@
       "duration": 20.4,
       "video_id": null,
       "date": "2026-10-10 20:36:59"
+    },
+    {
+      "surah": 1,
+      "surah_name": "الفاتحة",
+      "start_ayah": 2,
+      "end_ayah": 7,
+      "reciter": "ناصر القطامي",
+      "duration": 38.7,
+      "video_id": null,
+      "date": "2026-10-11 06:02:27"
     }
   ]
 }
