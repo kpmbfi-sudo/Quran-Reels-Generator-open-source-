@@ -1,6 +1,6 @@
 {
-  "total_generated": 25,
-  "last_reciter_idx": 11,
+  "total_generated": 26,
+  "last_reciter_idx": 12,
   "last_surah": 1,
   "last_ayah": 0,
   "last_generated": null,
@@ -254,6 +254,16 @@
       "duration": 38.7,
       "video_id": null,
       "date": "2026-10-11 06:02:27"
+    },
+    {
+      "surah": 49,
+      "surah_name": "الحجرات",
+      "start_ayah": 12,
+      "end_ayah": 12,
+      "reciter": "أحمد العجمي",
+      "duration": 42.3,
+      "video_id": null,
+      "date": "2026-10-11 11:38:13"
     }
   ]
 }
