@@ -1,6 +1,6 @@
 {
-  "total_generated": 26,
-  "last_reciter_idx": 12,
+  "total_generated": 27,
+  "last_reciter_idx": 13,
   "last_surah": 1,
   "last_ayah": 0,
   "last_generated": null,
@@ -264,6 +264,16 @@
       "duration": 42.3,
       "video_id": null,
       "date": "2026-10-11 11:38:13"
+    },
+    {
+      "surah": 102,
+      "surah_name": "التكاثر",
+      "start_ayah": 3,
+      "end_ayah": 8,
+      "reciter": "أبو بكر الشاطري",
+      "duration": 34.1,
+      "video_id": null,
+      "date": "2026-10-11 16:47:41"
     }
   ]
 }
