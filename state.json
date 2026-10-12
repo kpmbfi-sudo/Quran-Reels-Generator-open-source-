@@ -1,6 +1,6 @@
 {
-  "total_generated": 28,
-  "last_reciter_idx": 0,
+  "total_generated": 29,
+  "last_reciter_idx": 1,
   "last_surah": 1,
   "last_ayah": 0,
   "last_generated": null,
@@ -284,6 +284,16 @@
       "duration": 51.6,
       "video_id": null,
       "date": "2026-10-11 21:01:38"
+    },
+    {
+      "surah": 113,
+      "surah_name": "الفلق",
+      "start_ayah": 2,
+      "end_ayah": 5,
+      "reciter": "عبدالباسط عبدالصمد (مجود)",
+      "duration": 48.2,
+      "video_id": null,
+      "date": "2026-10-12 06:11:32"
     }
   ]
 }
