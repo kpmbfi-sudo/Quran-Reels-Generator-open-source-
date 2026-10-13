@@ -1,6 +1,6 @@
 {
-  "total_generated": 34,
-  "last_reciter_idx": 6,
+  "total_generated": 35,
+  "last_reciter_idx": 7,
   "last_surah": 1,
   "last_ayah": 0,
   "last_generated": null,
@@ -344,6 +344,16 @@
       "duration": 33.9,
       "video_id": null,
       "date": "2026-10-13 12:59:12"
+    },
+    {
+      "surah": 64,
+      "surah_name": "التغابن",
+      "start_ayah": 16,
+      "end_ayah": 18,
+      "reciter": "سعود الشريم",
+      "duration": 38.7,
+      "video_id": null,
+      "date": "2026-10-13 18:32:00"
     }
   ]
 }
