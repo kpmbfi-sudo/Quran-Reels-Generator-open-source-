@@ -1,6 +1,6 @@
 {
-  "total_generated": 35,
-  "last_reciter_idx": 7,
+  "total_generated": 36,
+  "last_reciter_idx": 8,
   "last_surah": 1,
   "last_ayah": 0,
   "last_generated": null,
@@ -354,6 +354,16 @@
       "duration": 38.7,
       "video_id": null,
       "date": "2026-10-13 18:32:00"
+    },
+    {
+      "surah": 72,
+      "surah_name": "الجن",
+      "start_ayah": 24,
+      "end_ayah": 28,
+      "reciter": "عبدالرحمن السديس",
+      "duration": 48.0,
+      "video_id": null,
+      "date": "2026-10-13 21:56:22"
     }
   ]
 }
