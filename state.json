@@ -1,6 +1,6 @@
 {
-  "total_generated": 33,
-  "last_reciter_idx": 5,
+  "total_generated": 34,
+  "last_reciter_idx": 6,
   "last_surah": 1,
   "last_ayah": 0,
   "last_generated": null,
@@ -334,6 +334,16 @@
       "duration": 60.9,
       "video_id": null,
       "date": "2026-10-13 06:57:16"
+    },
+    {
+      "surah": 95,
+      "surah_name": "التين",
+      "start_ayah": 3,
+      "end_ayah": 8,
+      "reciter": "ماهر المعيقلي",
+      "duration": 33.9,
+      "video_id": null,
+      "date": "2026-10-13 12:59:12"
     }
   ]
 }
