@@ -1,6 +1,6 @@
 {
-  "total_generated": 32,
-  "last_reciter_idx": 4,
+  "total_generated": 33,
+  "last_reciter_idx": 5,
   "last_surah": 1,
   "last_ayah": 0,
   "last_generated": null,
@@ -324,6 +324,16 @@
       "duration": 58.4,
       "video_id": null,
       "date": "2026-10-12 23:42:51"
+    },
+    {
+      "surah": 96,
+      "surah_name": "العلق",
+      "start_ayah": 5,
+      "end_ayah": 18,
+      "reciter": "مشاري العفاسي",
+      "duration": 60.9,
+      "video_id": null,
+      "date": "2026-10-13 06:57:16"
     }
   ]
 }
