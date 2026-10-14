@@ -1,6 +1,6 @@
 {
-  "total_generated": 37,
-  "last_reciter_idx": 9,
+  "total_generated": 38,
+  "last_reciter_idx": 10,
   "last_surah": 1,
   "last_ayah": 0,
   "last_generated": null,
@@ -374,6 +374,16 @@
       "duration": 55.4,
       "video_id": null,
       "date": "2026-10-14 05:05:02"
+    },
+    {
+      "surah": 94,
+      "surah_name": "الشرح",
+      "start_ayah": 2,
+      "end_ayah": 8,
+      "reciter": "ياسر الدوسري",
+      "duration": 28.4,
+      "video_id": null,
+      "date": "2026-10-14 10:36:30"
     }
   ]
 }
