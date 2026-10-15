@@ -1,6 +1,6 @@
 {
-  "total_generated": 41,
-  "last_reciter_idx": 13,
+  "total_generated": 42,
+  "last_reciter_idx": 0,
   "last_surah": 1,
   "last_ayah": 0,
   "last_generated": null,
@@ -414,6 +414,16 @@
       "duration": 27.9,
       "video_id": null,
       "date": "2026-10-15 04:52:36"
+    },
+    {
+      "surah": 64,
+      "surah_name": "التغابن",
+      "start_ayah": 6,
+      "end_ayah": 7,
+      "reciter": "عبدالباسط عبدالصمد (مرتل)",
+      "duration": 52.3,
+      "video_id": null,
+      "date": "2026-10-15 10:20:16"
     }
   ]
 }
