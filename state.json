@@ -1,6 +1,6 @@
 {
-  "total_generated": 40,
-  "last_reciter_idx": 12,
+  "total_generated": 41,
+  "last_reciter_idx": 13,
   "last_surah": 1,
   "last_ayah": 0,
   "last_generated": null,
@@ -404,6 +404,16 @@
       "duration": 57.1,
       "video_id": null,
       "date": "2026-10-14 20:47:14"
+    },
+    {
+      "surah": 105,
+      "surah_name": "الفيل",
+      "start_ayah": 2,
+      "end_ayah": 5,
+      "reciter": "أبو بكر الشاطري",
+      "duration": 27.9,
+      "video_id": null,
+      "date": "2026-10-15 04:52:36"
     }
   ]
 }
