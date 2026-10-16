@@ -1,6 +1,6 @@
 {
-  "total_generated": 45,
-  "last_reciter_idx": 3,
+  "total_generated": 46,
+  "last_reciter_idx": 4,
   "last_surah": 1,
   "last_ayah": 0,
   "last_generated": null,
@@ -454,6 +454,16 @@
       "duration": 59.6,
       "video_id": null,
       "date": "2026-10-16 04:44:54"
+    },
+    {
+      "surah": 29,
+      "surah_name": "العنكبوت",
+      "start_ayah": 36,
+      "end_ayah": 38,
+      "reciter": "محمود خليل الحصري",
+      "duration": 59.9,
+      "video_id": null,
+      "date": "2026-10-16 10:08:29"
     }
   ]
 }
