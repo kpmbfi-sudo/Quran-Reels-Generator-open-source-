@@ -1,6 +1,6 @@
 {
-  "total_generated": 51,
-  "last_reciter_idx": 9,
+  "total_generated": 52,
+  "last_reciter_idx": 10,
   "last_surah": 1,
   "last_ayah": 0,
   "last_generated": null,
@@ -514,6 +514,16 @@
       "duration": 58.4,
       "video_id": null,
       "date": "2026-10-17 14:26:25"
+    },
+    {
+      "surah": 85,
+      "surah_name": "البروج",
+      "start_ayah": 9,
+      "end_ayah": 14,
+      "reciter": "ياسر الدوسري",
+      "duration": 60.3,
+      "video_id": null,
+      "date": "2026-10-17 19:32:20"
     }
   ]
 }
