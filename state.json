@@ -1,6 +1,6 @@
 {
-  "total_generated": 49,
-  "last_reciter_idx": 7,
+  "total_generated": 50,
+  "last_reciter_idx": 8,
   "last_surah": 1,
   "last_ayah": 0,
   "last_generated": null,
@@ -494,6 +494,16 @@
       "duration": 23.1,
       "video_id": null,
       "date": "2026-10-17 04:39:30"
+    },
+    {
+      "surah": 79,
+      "surah_name": "النازعات",
+      "start_ayah": 14,
+      "end_ayah": 28,
+      "reciter": "عبدالرحمن السديس",
+      "duration": 59.3,
+      "video_id": null,
+      "date": "2026-10-17 09:42:49"
     }
   ]
 }
