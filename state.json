@@ -1,6 +1,6 @@
 {
-  "total_generated": 53,
-  "last_reciter_idx": 11,
+  "total_generated": 54,
+  "last_reciter_idx": 12,
   "last_surah": 1,
   "last_ayah": 0,
   "last_generated": null,
@@ -534,6 +534,16 @@
       "duration": 50.1,
       "video_id": null,
       "date": "2026-10-18 04:47:06"
+    },
+    {
+      "surah": 96,
+      "surah_name": "العلق",
+      "start_ayah": 2,
+      "end_ayah": 16,
+      "reciter": "أحمد العجمي",
+      "duration": 59.8,
+      "video_id": null,
+      "date": "2026-10-18 09:55:25"
     }
   ]
 }
