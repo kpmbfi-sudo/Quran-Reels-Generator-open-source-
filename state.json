@@ -1,6 +1,6 @@
 {
-  "total_generated": 52,
-  "last_reciter_idx": 10,
+  "total_generated": 53,
+  "last_reciter_idx": 11,
   "last_surah": 1,
   "last_ayah": 0,
   "last_generated": null,
@@ -524,6 +524,16 @@
       "duration": 60.3,
       "video_id": null,
       "date": "2026-10-17 19:32:20"
+    },
+    {
+      "surah": 70,
+      "surah_name": "المعارج",
+      "start_ayah": 41,
+      "end_ayah": 44,
+      "reciter": "ناصر القطامي",
+      "duration": 50.1,
+      "video_id": null,
+      "date": "2026-10-18 04:47:06"
     }
   ]
 }
