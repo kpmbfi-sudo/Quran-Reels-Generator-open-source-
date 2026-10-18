@@ -1,6 +1,6 @@
 {
-  "total_generated": 54,
-  "last_reciter_idx": 12,
+  "total_generated": 55,
+  "last_reciter_idx": 13,
   "last_surah": 1,
   "last_ayah": 0,
   "last_generated": null,
@@ -544,6 +544,16 @@
       "duration": 59.8,
       "video_id": null,
       "date": "2026-10-18 09:55:25"
+    },
+    {
+      "surah": 23,
+      "surah_name": "المؤمنون",
+      "start_ayah": 19,
+      "end_ayah": 22,
+      "reciter": "أبو بكر الشاطري",
+      "duration": 56.2,
+      "video_id": null,
+      "date": "2026-10-18 14:51:29"
     }
   ]
 }
