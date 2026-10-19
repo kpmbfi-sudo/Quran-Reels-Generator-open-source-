@@ -1,6 +1,6 @@
 {
-  "total_generated": 57,
-  "last_reciter_idx": 1,
+  "total_generated": 58,
+  "last_reciter_idx": 2,
   "last_surah": 1,
   "last_ayah": 0,
   "last_generated": null,
@@ -574,6 +574,16 @@
       "duration": 53.5,
       "video_id": null,
       "date": "2026-10-19 04:55:39"
+    },
+    {
+      "surah": 40,
+      "surah_name": "غافر",
+      "start_ayah": 60,
+      "end_ayah": 63,
+      "reciter": "محمد صديق المنشاوي (مرتل)",
+      "duration": 58.6,
+      "video_id": null,
+      "date": "2026-10-19 11:17:23"
     }
   ]
 }
