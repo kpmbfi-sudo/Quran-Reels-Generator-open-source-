@@ -1,6 +1,6 @@
 {
-  "total_generated": 58,
-  "last_reciter_idx": 2,
+  "total_generated": 59,
+  "last_reciter_idx": 3,
   "last_surah": 1,
   "last_ayah": 0,
   "last_generated": null,
@@ -584,6 +584,16 @@
       "duration": 58.6,
       "video_id": null,
       "date": "2026-10-19 11:17:23"
+    },
+    {
+      "surah": 101,
+      "surah_name": "القارعة",
+      "start_ayah": 7,
+      "end_ayah": 11,
+      "reciter": "محمد صديق المنشاوي (مجود)",
+      "duration": 42.1,
+      "video_id": null,
+      "date": "2026-10-19 17:46:50"
     }
   ]
 }
