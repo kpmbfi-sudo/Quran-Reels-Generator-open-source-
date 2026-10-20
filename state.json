@@ -1,6 +1,6 @@
 {
-  "total_generated": 60,
-  "last_reciter_idx": 4,
+  "total_generated": 61,
+  "last_reciter_idx": 5,
   "last_surah": 1,
   "last_ayah": 0,
   "last_generated": null,
@@ -604,6 +604,16 @@
       "duration": 41.2,
       "video_id": null,
       "date": "2026-10-19 21:36:41"
+    },
+    {
+      "surah": 109,
+      "surah_name": "الكافرون",
+      "start_ayah": 5,
+      "end_ayah": 6,
+      "reciter": "مشاري العفاسي",
+      "duration": 44.2,
+      "video_id": null,
+      "date": "2026-10-20 05:02:30"
     }
   ]
 }
