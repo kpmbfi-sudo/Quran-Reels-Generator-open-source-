@@ -1,6 +1,6 @@
 {
-  "total_generated": 62,
-  "last_reciter_idx": 6,
+  "total_generated": 63,
+  "last_reciter_idx": 7,
   "last_surah": 1,
   "last_ayah": 0,
   "last_generated": null,
@@ -624,6 +624,16 @@
       "duration": 58.8,
       "video_id": null,
       "date": "2026-10-20 10:31:57"
+    },
+    {
+      "surah": 82,
+      "surah_name": "الانفطار",
+      "start_ayah": 15,
+      "end_ayah": 19,
+      "reciter": "سعود الشريم",
+      "duration": 38.8,
+      "video_id": null,
+      "date": "2026-10-20 15:51:51"
     }
   ]
 }
