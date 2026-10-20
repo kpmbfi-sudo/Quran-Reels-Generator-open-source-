@@ -1,6 +1,6 @@
 {
-  "total_generated": 61,
-  "last_reciter_idx": 5,
+  "total_generated": 62,
+  "last_reciter_idx": 6,
   "last_surah": 1,
   "last_ayah": 0,
   "last_generated": null,
@@ -614,6 +614,16 @@
       "duration": 44.2,
       "video_id": null,
       "date": "2026-10-20 05:02:30"
+    },
+    {
+      "surah": 54,
+      "surah_name": "القمر",
+      "start_ayah": 45,
+      "end_ayah": 55,
+      "reciter": "ماهر المعيقلي",
+      "duration": 58.8,
+      "video_id": null,
+      "date": "2026-10-20 10:31:57"
     }
   ]
 }
