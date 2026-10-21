@@ -1,6 +1,6 @@
 {
-  "total_generated": 64,
-  "last_reciter_idx": 8,
+  "total_generated": 65,
+  "last_reciter_idx": 9,
   "last_surah": 1,
   "last_ayah": 0,
   "last_generated": null,
@@ -644,6 +644,16 @@
       "duration": 54.0,
       "video_id": null,
       "date": "2026-10-20 20:42:21"
+    },
+    {
+      "surah": 48,
+      "surah_name": "الفتح",
+      "start_ayah": 8,
+      "end_ayah": 10,
+      "reciter": "سعد الغامدي",
+      "duration": 50.0,
+      "video_id": null,
+      "date": "2026-10-21 05:02:52"
     }
   ]
 }
