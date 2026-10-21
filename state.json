@@ -1,6 +1,6 @@
 {
-  "total_generated": 65,
-  "last_reciter_idx": 9,
+  "total_generated": 66,
+  "last_reciter_idx": 10,
   "last_surah": 1,
   "last_ayah": 0,
   "last_generated": null,
@@ -654,6 +654,16 @@
       "duration": 50.0,
       "video_id": null,
       "date": "2026-10-21 05:02:52"
+    },
+    {
+      "surah": 44,
+      "surah_name": "الدخان",
+      "start_ayah": 7,
+      "end_ayah": 13,
+      "reciter": "ياسر الدوسري",
+      "duration": 55.7,
+      "video_id": null,
+      "date": "2026-10-21 10:38:57"
     }
   ]
 }
