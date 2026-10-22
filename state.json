@@ -1,6 +1,6 @@
 {
-  "total_generated": 70,
-  "last_reciter_idx": 0,
+  "total_generated": 71,
+  "last_reciter_idx": 1,
   "last_surah": 1,
   "last_ayah": 0,
   "last_generated": null,
@@ -704,6 +704,16 @@
       "duration": 59.9,
       "video_id": null,
       "date": "2026-10-22 10:40:39"
+    },
+    {
+      "surah": 72,
+      "surah_name": "الجن",
+      "start_ayah": 11,
+      "end_ayah": 12,
+      "reciter": "عبدالباسط عبدالصمد (مجود)",
+      "duration": 42.9,
+      "video_id": null,
+      "date": "2026-10-22 16:03:38"
     }
   ]
 }
