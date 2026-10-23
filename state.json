@@ -1,6 +1,6 @@
 {
-  "total_generated": 72,
-  "last_reciter_idx": 2,
+  "total_generated": 73,
+  "last_reciter_idx": 3,
   "last_surah": 1,
   "last_ayah": 0,
   "last_generated": null,
@@ -724,6 +724,16 @@
       "duration": 40.8,
       "video_id": null,
       "date": "2026-10-22 20:38:38"
+    },
+    {
+      "surah": 100,
+      "surah_name": "العاديات",
+      "start_ayah": 6,
+      "end_ayah": 11,
+      "reciter": "محمد صديق المنشاوي (مجود)",
+      "duration": 59.4,
+      "video_id": null,
+      "date": "2026-10-23 05:04:14"
     }
   ]
 }
