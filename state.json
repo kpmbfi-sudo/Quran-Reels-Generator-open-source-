@@ -1,6 +1,6 @@
 {
-  "total_generated": 75,
-  "last_reciter_idx": 5,
+  "total_generated": 76,
+  "last_reciter_idx": 6,
   "last_surah": 1,
   "last_ayah": 0,
   "last_generated": null,
@@ -754,6 +754,16 @@
       "duration": 56.1,
       "video_id": null,
       "date": "2026-10-23 15:56:23"
+    },
+    {
+      "surah": 99,
+      "surah_name": "الزلزلة",
+      "start_ayah": 3,
+      "end_ayah": 8,
+      "reciter": "ماهر المعيقلي",
+      "duration": 37.5,
+      "video_id": null,
+      "date": "2026-10-23 20:31:34"
     }
   ]
 }
