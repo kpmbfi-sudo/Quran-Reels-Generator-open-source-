@@ -1,6 +1,6 @@
 {
-  "total_generated": 73,
-  "last_reciter_idx": 3,
+  "total_generated": 74,
+  "last_reciter_idx": 4,
   "last_surah": 1,
   "last_ayah": 0,
   "last_generated": null,
@@ -734,6 +734,16 @@
       "duration": 59.4,
       "video_id": null,
       "date": "2026-10-23 05:04:14"
+    },
+    {
+      "surah": 34,
+      "surah_name": "سبأ",
+      "start_ayah": 46,
+      "end_ayah": 46,
+      "reciter": "محمود خليل الحصري",
+      "duration": 46.6,
+      "video_id": null,
+      "date": "2026-10-23 10:32:18"
     }
   ]
 }
