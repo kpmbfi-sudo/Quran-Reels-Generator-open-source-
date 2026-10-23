@@ -1,6 +1,6 @@
 {
-  "total_generated": 74,
-  "last_reciter_idx": 4,
+  "total_generated": 75,
+  "last_reciter_idx": 5,
   "last_surah": 1,
   "last_ayah": 0,
   "last_generated": null,
@@ -744,6 +744,16 @@
       "duration": 46.6,
       "video_id": null,
       "date": "2026-10-23 10:32:18"
+    },
+    {
+      "surah": 44,
+      "surah_name": "الدخان",
+      "start_ayah": 16,
+      "end_ayah": 19,
+      "reciter": "مشاري العفاسي",
+      "duration": 56.1,
+      "video_id": null,
+      "date": "2026-10-23 15:56:23"
     }
   ]
 }
