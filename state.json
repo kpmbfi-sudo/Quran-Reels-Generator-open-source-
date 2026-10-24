@@ -1,6 +1,6 @@
 {
-  "total_generated": 76,
-  "last_reciter_idx": 6,
+  "total_generated": 77,
+  "last_reciter_idx": 7,
   "last_surah": 1,
   "last_ayah": 0,
   "last_generated": null,
@@ -764,6 +764,16 @@
       "duration": 37.5,
       "video_id": null,
       "date": "2026-10-23 20:31:34"
+    },
+    {
+      "surah": 100,
+      "surah_name": "العاديات",
+      "start_ayah": 2,
+      "end_ayah": 11,
+      "reciter": "سعود الشريم",
+      "duration": 39.1,
+      "video_id": null,
+      "date": "2026-10-24 04:48:38"
     }
   ]
 }
