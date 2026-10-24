@@ -1,6 +1,6 @@
 {
-  "total_generated": 77,
-  "last_reciter_idx": 7,
+  "total_generated": 78,
+  "last_reciter_idx": 8,
   "last_surah": 1,
   "last_ayah": 0,
   "last_generated": null,
@@ -774,6 +774,16 @@
       "duration": 39.1,
       "video_id": null,
       "date": "2026-10-24 04:48:38"
+    },
+    {
+      "surah": 105,
+      "surah_name": "الفيل",
+      "start_ayah": 3,
+      "end_ayah": 5,
+      "reciter": "عبدالرحمن السديس",
+      "duration": 34.4,
+      "video_id": null,
+      "date": "2026-10-24 09:48:57"
     }
   ]
 }
