@@ -1,6 +1,6 @@
 {
-  "total_generated": 83,
-  "last_reciter_idx": 13,
+  "total_generated": 84,
+  "last_reciter_idx": 0,
   "last_surah": 1,
   "last_ayah": 0,
   "last_generated": null,
@@ -834,6 +834,16 @@
       "duration": 41.7,
       "video_id": null,
       "date": "2026-10-25 15:05:00"
+    },
+    {
+      "surah": 106,
+      "surah_name": "قريش",
+      "start_ayah": 2,
+      "end_ayah": 4,
+      "reciter": "عبدالباسط عبدالصمد (مرتل)",
+      "duration": 25.9,
+      "video_id": null,
+      "date": "2026-10-25 19:42:18"
     }
   ]
 }
