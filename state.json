@@ -1,6 +1,6 @@
 {
-  "total_generated": 82,
-  "last_reciter_idx": 12,
+  "total_generated": 83,
+  "last_reciter_idx": 13,
   "last_surah": 1,
   "last_ayah": 0,
   "last_generated": null,
@@ -824,6 +824,16 @@
       "duration": 42.2,
       "video_id": null,
       "date": "2026-10-25 10:09:48"
+    },
+    {
+      "surah": 95,
+      "surah_name": "التين",
+      "start_ayah": 1,
+      "end_ayah": 8,
+      "reciter": "أبو بكر الشاطري",
+      "duration": 41.7,
+      "video_id": null,
+      "date": "2026-10-25 15:05:00"
     }
   ]
 }
