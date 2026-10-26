@@ -1,6 +1,6 @@
 {
-  "total_generated": 84,
-  "last_reciter_idx": 0,
+  "total_generated": 85,
+  "last_reciter_idx": 1,
   "last_surah": 1,
   "last_ayah": 0,
   "last_generated": null,
@@ -844,6 +844,16 @@
       "duration": 25.9,
       "video_id": null,
       "date": "2026-10-25 19:42:18"
+    },
+    {
+      "surah": 80,
+      "surah_name": "عبس",
+      "start_ayah": 28,
+      "end_ayah": 36,
+      "reciter": "عبدالباسط عبدالصمد (مجود)",
+      "duration": 60.8,
+      "video_id": null,
+      "date": "2026-10-26 05:00:32"
     }
   ]
 }
