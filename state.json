@@ -1,6 +1,6 @@
 {
-  "total_generated": 95,
-  "last_reciter_idx": 11,
+  "total_generated": 96,
+  "last_reciter_idx": 12,
   "last_surah": 1,
   "last_ayah": 0,
   "last_generated": null,
@@ -954,6 +954,16 @@
       "duration": 55.3,
       "video_id": null,
       "date": "2026-10-28 17:21:50"
+    },
+    {
+      "surah": 113,
+      "surah_name": "الفلق",
+      "start_ayah": 4,
+      "end_ayah": 5,
+      "reciter": "أحمد العجمي",
+      "duration": 24.3,
+      "video_id": null,
+      "date": "2026-10-28 21:43:08"
     }
   ]
 }
