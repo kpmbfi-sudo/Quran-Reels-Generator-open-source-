@@ -1,6 +1,6 @@
 {
-  "total_generated": 98,
-  "last_reciter_idx": 0,
+  "total_generated": 99,
+  "last_reciter_idx": 1,
   "last_surah": 1,
   "last_ayah": 0,
   "last_generated": null,
@@ -984,6 +984,16 @@
       "duration": 58.0,
       "video_id": null,
       "date": "2026-10-29 11:46:53"
+    },
+    {
+      "surah": 90,
+      "surah_name": "البلد",
+      "start_ayah": 16,
+      "end_ayah": 20,
+      "reciter": "عبدالباسط عبدالصمد (مجود)",
+      "duration": 55.2,
+      "video_id": null,
+      "date": "2026-10-29 17:35:25"
     }
   ]
 }
