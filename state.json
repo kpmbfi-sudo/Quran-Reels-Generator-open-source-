@@ -1,6 +1,6 @@
 {
-  "total_generated": 97,
-  "last_reciter_idx": 13,
+  "total_generated": 98,
+  "last_reciter_idx": 0,
   "last_surah": 1,
   "last_ayah": 0,
   "last_generated": null,
@@ -974,6 +974,16 @@
       "duration": 54.5,
       "video_id": null,
       "date": "2026-10-29 06:00:28"
+    },
+    {
+      "surah": 78,
+      "surah_name": "النبأ",
+      "start_ayah": 19,
+      "end_ayah": 29,
+      "reciter": "عبدالباسط عبدالصمد (مرتل)",
+      "duration": 58.0,
+      "video_id": null,
+      "date": "2026-10-29 11:46:53"
     }
   ]
 }
