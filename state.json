@@ -1,6 +1,6 @@
 {
-  "total_generated": 96,
-  "last_reciter_idx": 12,
+  "total_generated": 97,
+  "last_reciter_idx": 13,
   "last_surah": 1,
   "last_ayah": 0,
   "last_generated": null,
@@ -964,6 +964,16 @@
       "duration": 24.3,
       "video_id": null,
       "date": "2026-10-28 21:43:08"
+    },
+    {
+      "surah": 83,
+      "surah_name": "المطففين",
+      "start_ayah": 21,
+      "end_ayah": 30,
+      "reciter": "أبو بكر الشاطري",
+      "duration": 54.5,
+      "video_id": null,
+      "date": "2026-10-29 06:00:28"
     }
   ]
 }
