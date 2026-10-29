@@ -1,6 +1,6 @@
 {
-  "total_generated": 99,
-  "last_reciter_idx": 1,
+  "total_generated": 100,
+  "last_reciter_idx": 2,
   "last_surah": 1,
   "last_ayah": 0,
   "last_generated": null,
@@ -994,6 +994,16 @@
       "duration": 55.2,
       "video_id": null,
       "date": "2026-10-29 17:35:25"
+    },
+    {
+      "surah": 86,
+      "surah_name": "الطارق",
+      "start_ayah": 2,
+      "end_ayah": 11,
+      "reciter": "محمد صديق المنشاوي (مرتل)",
+      "duration": 60.8,
+      "video_id": null,
+      "date": "2026-10-29 21:54:35"
     }
   ]
 }
