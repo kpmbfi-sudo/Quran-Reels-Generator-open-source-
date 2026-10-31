@@ -1,6 +1,6 @@
 {
-  "total_generated": 106,
-  "last_reciter_idx": 8,
+  "total_generated": 107,
+  "last_reciter_idx": 9,
   "last_surah": 1,
   "last_ayah": 0,
   "last_generated": null,
@@ -1064,6 +1064,16 @@
       "duration": 59.3,
       "video_id": null,
       "date": "2026-10-31 11:15:56"
+    },
+    {
+      "surah": 106,
+      "surah_name": "قريش",
+      "start_ayah": 3,
+      "end_ayah": 4,
+      "reciter": "سعد الغامدي",
+      "duration": 26.9,
+      "video_id": null,
+      "date": "2026-10-31 16:19:05"
     }
   ]
 }
