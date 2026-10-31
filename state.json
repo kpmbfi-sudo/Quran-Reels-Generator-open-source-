@@ -1,6 +1,6 @@
 {
-  "total_generated": 105,
-  "last_reciter_idx": 7,
+  "total_generated": 106,
+  "last_reciter_idx": 8,
   "last_surah": 1,
   "last_ayah": 0,
   "last_generated": null,
@@ -1054,6 +1054,16 @@
       "duration": 56.9,
       "video_id": null,
       "date": "2026-10-31 05:59:36"
+    },
+    {
+      "surah": 89,
+      "surah_name": "الفجر",
+      "start_ayah": 18,
+      "end_ayah": 26,
+      "reciter": "عبدالرحمن السديس",
+      "duration": 59.3,
+      "video_id": null,
+      "date": "2026-10-31 11:15:56"
     }
   ]
 }
