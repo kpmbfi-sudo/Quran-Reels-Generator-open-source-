@@ -1,6 +1,6 @@
 {
-  "total_generated": 104,
-  "last_reciter_idx": 6,
+  "total_generated": 105,
+  "last_reciter_idx": 7,
   "last_surah": 1,
   "last_ayah": 0,
   "last_generated": null,
@@ -1044,6 +1044,16 @@
       "duration": 61.3,
       "video_id": null,
       "date": "2026-10-30 21:37:53"
+    },
+    {
+      "surah": 81,
+      "surah_name": "التكوير",
+      "start_ayah": 14,
+      "end_ayah": 27,
+      "reciter": "سعود الشريم",
+      "duration": 56.9,
+      "video_id": null,
+      "date": "2026-10-31 05:59:36"
     }
   ]
 }
