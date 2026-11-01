@@ -1,6 +1,6 @@
 {
-  "total_generated": 109,
-  "last_reciter_idx": 11,
+  "total_generated": 110,
+  "last_reciter_idx": 12,
   "last_surah": 1,
   "last_ayah": 0,
   "last_generated": null,
@@ -1094,6 +1094,16 @@
       "duration": 48.8,
       "video_id": null,
       "date": "2026-11-01 06:26:10"
+    },
+    {
+      "surah": 45,
+      "surah_name": "الجاثية",
+      "start_ayah": 4,
+      "end_ayah": 7,
+      "reciter": "أحمد العجمي",
+      "duration": 60.6,
+      "video_id": null,
+      "date": "2026-11-01 12:04:41"
     }
   ]
 }
