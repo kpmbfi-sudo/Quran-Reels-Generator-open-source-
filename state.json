@@ -1,6 +1,6 @@
 {
-  "total_generated": 111,
-  "last_reciter_idx": 13,
+  "total_generated": 112,
+  "last_reciter_idx": 0,
   "last_surah": 1,
   "last_ayah": 0,
   "last_generated": null,
@@ -1114,6 +1114,16 @@
       "duration": 16.8,
       "video_id": null,
       "date": "2026-11-01 17:15:36"
+    },
+    {
+      "surah": 79,
+      "surah_name": "النازعات",
+      "start_ayah": 39,
+      "end_ayah": 46,
+      "reciter": "عبدالباسط عبدالصمد (مرتل)",
+      "duration": 54.4,
+      "video_id": null,
+      "date": "2026-11-01 21:16:48"
     }
   ]
 }
