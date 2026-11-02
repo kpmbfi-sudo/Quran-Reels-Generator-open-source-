@@ -1,6 +1,6 @@
 {
-  "total_generated": 114,
-  "last_reciter_idx": 2,
+  "total_generated": 115,
+  "last_reciter_idx": 3,
   "last_surah": 1,
   "last_ayah": 0,
   "last_generated": null,
@@ -1144,6 +1144,16 @@
       "duration": 58.5,
       "video_id": null,
       "date": "2026-11-02 13:53:01"
+    },
+    {
+      "surah": 81,
+      "surah_name": "التكوير",
+      "start_ayah": 18,
+      "end_ayah": 23,
+      "reciter": "محمد صديق المنشاوي (مجود)",
+      "duration": 59.7,
+      "video_id": null,
+      "date": "2026-11-02 20:58:04"
     }
   ]
 }
