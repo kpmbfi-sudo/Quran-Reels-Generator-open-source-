@@ -1,6 +1,6 @@
 {
-  "total_generated": 112,
-  "last_reciter_idx": 0,
+  "total_generated": 113,
+  "last_reciter_idx": 1,
   "last_surah": 1,
   "last_ayah": 0,
   "last_generated": null,
@@ -1124,6 +1124,16 @@
       "duration": 54.4,
       "video_id": null,
       "date": "2026-11-01 21:16:48"
+    },
+    {
+      "surah": 87,
+      "surah_name": "الأعلى",
+      "start_ayah": 15,
+      "end_ayah": 19,
+      "reciter": "عبدالباسط عبدالصمد (مجود)",
+      "duration": 54.1,
+      "video_id": null,
+      "date": "2026-11-02 06:25:03"
     }
   ]
 }
