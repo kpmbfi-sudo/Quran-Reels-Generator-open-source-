@@ -1,6 +1,6 @@
 {
-  "total_generated": 115,
-  "last_reciter_idx": 3,
+  "total_generated": 116,
+  "last_reciter_idx": 4,
   "last_surah": 1,
   "last_ayah": 0,
   "last_generated": null,
@@ -1154,6 +1154,16 @@
       "duration": 59.7,
       "video_id": null,
       "date": "2026-11-02 20:58:04"
+    },
+    {
+      "surah": 7,
+      "surah_name": "الأعراف",
+      "start_ayah": 30,
+      "end_ayah": 31,
+      "reciter": "محمود خليل الحصري",
+      "duration": 65.3,
+      "video_id": null,
+      "date": "2026-11-02 23:58:41"
     }
   ]
 }
