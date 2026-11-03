@@ -1,6 +1,6 @@
 {
-  "total_generated": 119,
-  "last_reciter_idx": 7,
+  "total_generated": 120,
+  "last_reciter_idx": 8,
   "last_surah": 1,
   "last_ayah": 0,
   "last_generated": null,
@@ -1194,6 +1194,16 @@
       "duration": 22.7,
       "video_id": null,
       "date": "2026-11-03 18:41:12"
+    },
+    {
+      "surah": 86,
+      "surah_name": "الطارق",
+      "start_ayah": 14,
+      "end_ayah": 17,
+      "reciter": "عبدالرحمن السديس",
+      "duration": 44.2,
+      "video_id": null,
+      "date": "2026-11-03 22:22:15"
     }
   ]
 }
