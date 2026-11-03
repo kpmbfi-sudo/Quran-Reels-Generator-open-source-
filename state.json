@@ -1,6 +1,6 @@
 {
-  "total_generated": 117,
-  "last_reciter_idx": 5,
+  "total_generated": 118,
+  "last_reciter_idx": 6,
   "last_surah": 1,
   "last_ayah": 0,
   "last_generated": null,
@@ -1174,6 +1174,16 @@
       "duration": 60.3,
       "video_id": null,
       "date": "2026-11-03 07:00:41"
+    },
+    {
+      "surah": 67,
+      "surah_name": "الملك",
+      "start_ayah": 23,
+      "end_ayah": 28,
+      "reciter": "ماهر المعيقلي",
+      "duration": 53.5,
+      "video_id": null,
+      "date": "2026-11-03 13:02:51"
     }
   ]
 }
