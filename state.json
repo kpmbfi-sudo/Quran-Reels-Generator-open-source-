@@ -1,6 +1,6 @@
 {
-  "total_generated": 123,
-  "last_reciter_idx": 11,
+  "total_generated": 124,
+  "last_reciter_idx": 12,
   "last_surah": 1,
   "last_ayah": 0,
   "last_generated": null,
@@ -1234,6 +1234,16 @@
       "duration": 51.3,
       "video_id": null,
       "date": "2026-11-04 19:09:13"
+    },
+    {
+      "surah": 84,
+      "surah_name": "الانشقاق",
+      "start_ayah": 3,
+      "end_ayah": 12,
+      "reciter": "أحمد العجمي",
+      "duration": 56.7,
+      "video_id": null,
+      "date": "2026-11-04 22:43:31"
     }
   ]
 }
