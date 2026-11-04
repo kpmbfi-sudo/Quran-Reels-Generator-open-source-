@@ -1,6 +1,6 @@
 {
-  "total_generated": 121,
-  "last_reciter_idx": 9,
+  "total_generated": 122,
+  "last_reciter_idx": 10,
   "last_surah": 1,
   "last_ayah": 0,
   "last_generated": null,
@@ -1214,6 +1214,16 @@
       "duration": 60.9,
       "video_id": null,
       "date": "2026-11-04 06:42:15"
+    },
+    {
+      "surah": 81,
+      "surah_name": "التكوير",
+      "start_ayah": 24,
+      "end_ayah": 29,
+      "reciter": "ياسر الدوسري",
+      "duration": 41.0,
+      "video_id": null,
+      "date": "2026-11-04 13:17:47"
     }
   ]
 }
