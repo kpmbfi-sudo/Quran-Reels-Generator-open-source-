@@ -1,6 +1,6 @@
 {
-  "total_generated": 125,
-  "last_reciter_idx": 13,
+  "total_generated": 126,
+  "last_reciter_idx": 0,
   "last_surah": 1,
   "last_ayah": 0,
   "last_generated": null,
@@ -1254,6 +1254,16 @@
       "duration": 60.9,
       "video_id": null,
       "date": "2026-11-05 07:01:55"
+    },
+    {
+      "surah": 52,
+      "surah_name": "الطور",
+      "start_ayah": 39,
+      "end_ayah": 45,
+      "reciter": "عبدالباسط عبدالصمد (مرتل)",
+      "duration": 61.0,
+      "video_id": null,
+      "date": "2026-11-05 13:38:57"
     }
   ]
 }
