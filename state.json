@@ -1,6 +1,6 @@
 {
-  "total_generated": 127,
-  "last_reciter_idx": 1,
+  "total_generated": 128,
+  "last_reciter_idx": 2,
   "last_surah": 1,
   "last_ayah": 0,
   "last_generated": null,
@@ -1274,6 +1274,16 @@
       "duration": 53.2,
       "video_id": null,
       "date": "2026-11-05 18:59:50"
+    },
+    {
+      "surah": 3,
+      "surah_name": "آل عمران",
+      "start_ayah": 142,
+      "end_ayah": 143,
+      "reciter": "محمد صديق المنشاوي (مرتل)",
+      "duration": 41.0,
+      "video_id": null,
+      "date": "2026-11-05 22:44:25"
     }
   ]
 }
