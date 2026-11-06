@@ -1,6 +1,6 @@
 {
-  "total_generated": 130,
-  "last_reciter_idx": 4,
+  "total_generated": 131,
+  "last_reciter_idx": 5,
   "last_surah": 1,
   "last_ayah": 0,
   "last_generated": null,
@@ -1304,6 +1304,16 @@
       "duration": 41.7,
       "video_id": null,
       "date": "2026-11-06 13:15:08"
+    },
+    {
+      "surah": 98,
+      "surah_name": "البينة",
+      "start_ayah": 2,
+      "end_ayah": 5,
+      "reciter": "مشاري العفاسي",
+      "duration": 44.3,
+      "video_id": null,
+      "date": "2026-11-06 18:25:17"
     }
   ]
 }
