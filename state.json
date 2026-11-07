@@ -1,6 +1,6 @@
 {
-  "total_generated": 133,
-  "last_reciter_idx": 7,
+  "total_generated": 134,
+  "last_reciter_idx": 8,
   "last_surah": 1,
   "last_ayah": 0,
   "last_generated": null,
@@ -1334,6 +1334,16 @@
       "duration": 35.4,
       "video_id": null,
       "date": "2026-11-07 06:12:53"
+    },
+    {
+      "surah": 91,
+      "surah_name": "الشمس",
+      "start_ayah": 13,
+      "end_ayah": 15,
+      "reciter": "عبدالرحمن السديس",
+      "duration": 39.7,
+      "video_id": null,
+      "date": "2026-11-07 11:56:49"
     }
   ]
 }
