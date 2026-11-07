@@ -1,6 +1,6 @@
 {
-  "total_generated": 134,
-  "last_reciter_idx": 8,
+  "total_generated": 135,
+  "last_reciter_idx": 9,
   "last_surah": 1,
   "last_ayah": 0,
   "last_generated": null,
@@ -1344,6 +1344,16 @@
       "duration": 39.7,
       "video_id": null,
       "date": "2026-11-07 11:56:49"
+    },
+    {
+      "surah": 84,
+      "surah_name": "الانشقاق",
+      "start_ayah": 1,
+      "end_ayah": 12,
+      "reciter": "سعد الغامدي",
+      "duration": 57.6,
+      "video_id": null,
+      "date": "2026-11-07 17:02:14"
     }
   ]
 }
