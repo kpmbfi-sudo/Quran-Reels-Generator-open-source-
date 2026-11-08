@@ -1,6 +1,6 @@
 {
-  "total_generated": 138,
-  "last_reciter_idx": 12,
+  "total_generated": 139,
+  "last_reciter_idx": 13,
   "last_surah": 1,
   "last_ayah": 0,
   "last_generated": null,
@@ -1384,6 +1384,16 @@
       "duration": 26.7,
       "video_id": null,
       "date": "2026-11-08 12:12:18"
+    },
+    {
+      "surah": 53,
+      "surah_name": "النجم",
+      "start_ayah": 20,
+      "end_ayah": 25,
+      "reciter": "أبو بكر الشاطري",
+      "duration": 58.3,
+      "video_id": null,
+      "date": "2026-11-08 17:17:14"
     }
   ]
 }
