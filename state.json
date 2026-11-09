@@ -1,6 +1,6 @@
 {
-  "total_generated": 142,
-  "last_reciter_idx": 2,
+  "total_generated": 143,
+  "last_reciter_idx": 3,
   "last_surah": 1,
   "last_ayah": 0,
   "last_generated": null,
@@ -1424,6 +1424,16 @@
       "duration": 101.9,
       "video_id": null,
       "date": "2026-11-09 14:25:00"
+    },
+    {
+      "surah": 109,
+      "surah_name": "الكافرون",
+      "start_ayah": 1,
+      "end_ayah": 6,
+      "reciter": "محمد صديق المنشاوي (مجود)",
+      "duration": 55.6,
+      "video_id": null,
+      "date": "2026-11-09 21:42:15"
     }
   ]
 }
