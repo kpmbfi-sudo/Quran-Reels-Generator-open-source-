@@ -1,6 +1,6 @@
 {
-  "total_generated": 143,
-  "last_reciter_idx": 3,
+  "total_generated": 144,
+  "last_reciter_idx": 4,
   "last_surah": 1,
   "last_ayah": 0,
   "last_generated": null,
@@ -1434,6 +1434,16 @@
       "duration": 55.6,
       "video_id": null,
       "date": "2026-11-09 21:42:15"
+    },
+    {
+      "surah": 95,
+      "surah_name": "التين",
+      "start_ayah": 6,
+      "end_ayah": 8,
+      "reciter": "محمود خليل الحصري",
+      "duration": 39.4,
+      "video_id": null,
+      "date": "2026-11-10 00:44:59"
     }
   ]
 }
