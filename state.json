@@ -1,6 +1,6 @@
 {
-  "total_generated": 144,
-  "last_reciter_idx": 4,
+  "total_generated": 145,
+  "last_reciter_idx": 5,
   "last_surah": 1,
   "last_ayah": 0,
   "last_generated": null,
@@ -1444,6 +1444,16 @@
       "duration": 39.4,
       "video_id": null,
       "date": "2026-11-10 00:44:59"
+    },
+    {
+      "surah": 114,
+      "surah_name": "الناس",
+      "start_ayah": 1,
+      "end_ayah": 6,
+      "reciter": "مشاري العفاسي",
+      "duration": 41.4,
+      "video_id": null,
+      "date": "2026-11-10 07:31:33"
     }
   ]
 }
