@@ -1,6 +1,6 @@
 {
-  "total_generated": 148,
-  "last_reciter_idx": 8,
+  "total_generated": 149,
+  "last_reciter_idx": 9,
   "last_surah": 1,
   "last_ayah": 0,
   "last_generated": null,
@@ -1484,6 +1484,16 @@
       "duration": 33.7,
       "video_id": null,
       "date": "2026-11-10 22:25:30"
+    },
+    {
+      "surah": 96,
+      "surah_name": "العلق",
+      "start_ayah": 8,
+      "end_ayah": 19,
+      "reciter": "سعد الغامدي",
+      "duration": 49.1,
+      "video_id": null,
+      "date": "2026-11-11 06:46:45"
     }
   ]
 }
