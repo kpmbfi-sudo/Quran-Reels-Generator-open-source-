@@ -1,6 +1,6 @@
 {
-  "total_generated": 149,
-  "last_reciter_idx": 9,
+  "total_generated": 150,
+  "last_reciter_idx": 10,
   "last_surah": 1,
   "last_ayah": 0,
   "last_generated": null,
@@ -1494,6 +1494,16 @@
       "duration": 49.1,
       "video_id": null,
       "date": "2026-11-11 06:46:45"
+    },
+    {
+      "surah": 91,
+      "surah_name": "الشمس",
+      "start_ayah": 11,
+      "end_ayah": 15,
+      "reciter": "ياسر الدوسري",
+      "duration": 40.3,
+      "video_id": null,
+      "date": "2026-11-11 12:58:15"
     }
   ]
 }
