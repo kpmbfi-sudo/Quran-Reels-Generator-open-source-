@@ -1,6 +1,6 @@
 {
-  "total_generated": 150,
-  "last_reciter_idx": 10,
+  "total_generated": 151,
+  "last_reciter_idx": 11,
   "last_surah": 1,
   "last_ayah": 0,
   "last_generated": null,
@@ -1504,6 +1504,16 @@
       "duration": 40.3,
       "video_id": null,
       "date": "2026-11-11 12:58:15"
+    },
+    {
+      "surah": 55,
+      "surah_name": "الرحمن",
+      "start_ayah": 60,
+      "end_ayah": 67,
+      "reciter": "ناصر القطامي",
+      "duration": 55.4,
+      "video_id": null,
+      "date": "2026-11-11 18:55:07"
     }
   ]
 }
