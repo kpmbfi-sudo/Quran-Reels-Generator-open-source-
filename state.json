@@ -1,6 +1,6 @@
 {
-  "total_generated": 151,
-  "last_reciter_idx": 11,
+  "total_generated": 152,
+  "last_reciter_idx": 12,
   "last_surah": 1,
   "last_ayah": 0,
   "last_generated": null,
@@ -1514,6 +1514,16 @@
       "duration": 55.4,
       "video_id": null,
       "date": "2026-11-11 18:55:07"
+    },
+    {
+      "surah": 69,
+      "surah_name": "الحاقة",
+      "start_ayah": 41,
+      "end_ayah": 49,
+      "reciter": "أحمد العجمي",
+      "duration": 60.7,
+      "video_id": null,
+      "date": "2026-11-11 23:33:41"
     }
   ]
 }
