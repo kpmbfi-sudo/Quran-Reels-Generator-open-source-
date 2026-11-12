@@ -1,6 +1,6 @@
 {
-  "total_generated": 152,
-  "last_reciter_idx": 12,
+  "total_generated": 153,
+  "last_reciter_idx": 13,
   "last_surah": 1,
   "last_ayah": 0,
   "last_generated": null,
@@ -1524,6 +1524,16 @@
       "duration": 60.7,
       "video_id": null,
       "date": "2026-11-11 23:33:41"
+    },
+    {
+      "surah": 87,
+      "surah_name": "الأعلى",
+      "start_ayah": 13,
+      "end_ayah": 19,
+      "reciter": "أبو بكر الشاطري",
+      "duration": 40.4,
+      "video_id": null,
+      "date": "2026-11-12 07:25:39"
     }
   ]
 }
