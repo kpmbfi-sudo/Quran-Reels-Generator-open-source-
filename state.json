@@ -1,6 +1,6 @@
 {
-  "total_generated": 153,
-  "last_reciter_idx": 13,
+  "total_generated": 154,
+  "last_reciter_idx": 0,
   "last_surah": 1,
   "last_ayah": 0,
   "last_generated": null,
@@ -1534,6 +1534,16 @@
       "duration": 40.4,
       "video_id": null,
       "date": "2026-11-12 07:25:39"
+    },
+    {
+      "surah": 42,
+      "surah_name": "الشورى",
+      "start_ayah": 17,
+      "end_ayah": 18,
+      "reciter": "عبدالباسط عبدالصمد (مرتل)",
+      "duration": 50.1,
+      "video_id": null,
+      "date": "2026-11-12 14:01:10"
     }
   ]
 }
