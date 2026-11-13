@@ -1,6 +1,6 @@
 {
-  "total_generated": 158,
-  "last_reciter_idx": 4,
+  "total_generated": 159,
+  "last_reciter_idx": 5,
   "last_surah": 1,
   "last_ayah": 0,
   "last_generated": null,
@@ -1584,6 +1584,16 @@
       "duration": 52.1,
       "video_id": null,
       "date": "2026-11-13 13:30:17"
+    },
+    {
+      "surah": 89,
+      "surah_name": "الفجر",
+      "start_ayah": 3,
+      "end_ayah": 14,
+      "reciter": "مشاري العفاسي",
+      "duration": 60.0,
+      "video_id": null,
+      "date": "2026-11-13 18:48:12"
     }
   ]
 }
