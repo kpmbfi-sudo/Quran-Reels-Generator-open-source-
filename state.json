@@ -1,6 +1,6 @@
 {
-  "total_generated": 157,
-  "last_reciter_idx": 3,
+  "total_generated": 158,
+  "last_reciter_idx": 4,
   "last_surah": 1,
   "last_ayah": 0,
   "last_generated": null,
@@ -1574,6 +1574,16 @@
       "duration": 55.3,
       "video_id": null,
       "date": "2026-11-13 06:58:28"
+    },
+    {
+      "surah": 41,
+      "surah_name": "فصلت",
+      "start_ayah": 47,
+      "end_ayah": 47,
+      "reciter": "محمود خليل الحصري",
+      "duration": 52.1,
+      "video_id": null,
+      "date": "2026-11-13 13:30:17"
     }
   ]
 }
