@@ -1,6 +1,6 @@
 {
-  "total_generated": 159,
-  "last_reciter_idx": 5,
+  "total_generated": 160,
+  "last_reciter_idx": 6,
   "last_surah": 1,
   "last_ayah": 0,
   "last_generated": null,
@@ -1594,6 +1594,16 @@
       "duration": 60.0,
       "video_id": null,
       "date": "2026-11-13 18:48:12"
+    },
+    {
+      "surah": 64,
+      "surah_name": "التغابن",
+      "start_ayah": 1,
+      "end_ayah": 5,
+      "reciter": "ماهر المعيقلي",
+      "duration": 54.6,
+      "video_id": null,
+      "date": "2026-11-13 22:44:01"
     }
   ]
 }
