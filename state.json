@@ -1,6 +1,6 @@
 {
-  "total_generated": 167,
-  "last_reciter_idx": 13,
+  "total_generated": 168,
+  "last_reciter_idx": 0,
   "last_surah": 1,
   "last_ayah": 0,
   "last_generated": null,
@@ -1674,6 +1674,16 @@
       "duration": 22.0,
       "video_id": null,
       "date": "2026-11-15 17:58:52"
+    },
+    {
+      "surah": 110,
+      "surah_name": "النصر",
+      "start_ayah": 1,
+      "end_ayah": 3,
+      "reciter": "عبدالباسط عبدالصمد (مرتل)",
+      "duration": 24.1,
+      "video_id": null,
+      "date": "2026-11-15 21:52:45"
     }
   ]
 }
