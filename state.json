@@ -1,6 +1,6 @@
 {
-  "total_generated": 165,
-  "last_reciter_idx": 11,
+  "total_generated": 166,
+  "last_reciter_idx": 12,
   "last_surah": 1,
   "last_ayah": 0,
   "last_generated": null,
@@ -1654,6 +1654,16 @@
       "duration": 58.2,
       "video_id": null,
       "date": "2026-11-15 06:50:49"
+    },
+    {
+      "surah": 50,
+      "surah_name": "ق",
+      "start_ayah": 15,
+      "end_ayah": 19,
+      "reciter": "أحمد العجمي",
+      "duration": 57.4,
+      "video_id": null,
+      "date": "2026-11-15 13:01:36"
     }
   ]
 }
