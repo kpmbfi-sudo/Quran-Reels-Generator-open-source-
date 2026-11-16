@@ -1,6 +1,6 @@
 {
-  "total_generated": 169,
-  "last_reciter_idx": 1,
+  "total_generated": 170,
+  "last_reciter_idx": 2,
   "last_surah": 1,
   "last_ayah": 0,
   "last_generated": null,
@@ -1694,6 +1694,16 @@
       "duration": 40.5,
       "video_id": null,
       "date": "2026-11-16 06:47:48"
+    },
+    {
+      "surah": 18,
+      "surah_name": "الكهف",
+      "start_ayah": 26,
+      "end_ayah": 27,
+      "reciter": "محمد صديق المنشاوي (مرتل)",
+      "duration": 44.4,
+      "video_id": null,
+      "date": "2026-11-16 14:01:12"
     }
   ]
 }
