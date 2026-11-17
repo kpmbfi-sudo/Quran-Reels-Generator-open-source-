@@ -1,6 +1,6 @@
 {
-  "total_generated": 172,
-  "last_reciter_idx": 4,
+  "total_generated": 173,
+  "last_reciter_idx": 5,
   "last_surah": 1,
   "last_ayah": 0,
   "last_generated": null,
@@ -1724,6 +1724,16 @@
       "duration": 59.7,
       "video_id": null,
       "date": "2026-11-17 00:54:30"
+    },
+    {
+      "surah": 95,
+      "surah_name": "التين",
+      "start_ayah": 4,
+      "end_ayah": 8,
+      "reciter": "مشاري العفاسي",
+      "duration": 40.7,
+      "video_id": null,
+      "date": "2026-11-17 08:08:39"
     }
   ]
 }
