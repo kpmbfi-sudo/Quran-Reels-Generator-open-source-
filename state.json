@@ -1,6 +1,6 @@
 {
-  "total_generated": 171,
-  "last_reciter_idx": 3,
+  "total_generated": 172,
+  "last_reciter_idx": 4,
   "last_surah": 1,
   "last_ayah": 0,
   "last_generated": null,
@@ -1714,6 +1714,16 @@
       "duration": 54.3,
       "video_id": null,
       "date": "2026-11-16 21:17:53"
+    },
+    {
+      "surah": 71,
+      "surah_name": "نوح",
+      "start_ayah": 22,
+      "end_ayah": 25,
+      "reciter": "محمود خليل الحصري",
+      "duration": 59.7,
+      "video_id": null,
+      "date": "2026-11-17 00:54:30"
     }
   ]
 }
