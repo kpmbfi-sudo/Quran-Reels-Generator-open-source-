@@ -1,6 +1,6 @@
 {
-  "total_generated": 179,
-  "last_reciter_idx": 11,
+  "total_generated": 180,
+  "last_reciter_idx": 12,
   "last_surah": 1,
   "last_ayah": 0,
   "last_generated": null,
@@ -1794,6 +1794,16 @@
       "duration": 60.5,
       "video_id": null,
       "date": "2026-11-18 19:36:37"
+    },
+    {
+      "surah": 83,
+      "surah_name": "المطففين",
+      "start_ayah": 27,
+      "end_ayah": 35,
+      "reciter": "أحمد العجمي",
+      "duration": 59.4,
+      "video_id": null,
+      "date": "2026-11-18 23:28:39"
     }
   ]
 }
