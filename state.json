@@ -1,6 +1,6 @@
 {
-  "total_generated": 177,
-  "last_reciter_idx": 9,
+  "total_generated": 178,
+  "last_reciter_idx": 10,
   "last_surah": 1,
   "last_ayah": 0,
   "last_generated": null,
@@ -1774,6 +1774,16 @@
       "duration": 14.5,
       "video_id": null,
       "date": "2026-11-18 07:40:55"
+    },
+    {
+      "surah": 60,
+      "surah_name": "الممتحنة",
+      "start_ayah": 5,
+      "end_ayah": 7,
+      "reciter": "ياسر الدوسري",
+      "duration": 48.3,
+      "video_id": null,
+      "date": "2026-11-18 14:35:21"
     }
   ]
 }
