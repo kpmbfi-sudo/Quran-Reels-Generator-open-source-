@@ -1,6 +1,6 @@
 {
-  "total_generated": 176,
-  "last_reciter_idx": 8,
+  "total_generated": 177,
+  "last_reciter_idx": 9,
   "last_surah": 1,
   "last_ayah": 0,
   "last_generated": null,
@@ -1764,6 +1764,16 @@
       "duration": 52.2,
       "video_id": null,
       "date": "2026-11-17 23:54:54"
+    },
+    {
+      "surah": 108,
+      "surah_name": "الكوثر",
+      "start_ayah": 2,
+      "end_ayah": 3,
+      "reciter": "سعد الغامدي",
+      "duration": 14.5,
+      "video_id": null,
+      "date": "2026-11-18 07:40:55"
     }
   ]
 }
