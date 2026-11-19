@@ -1,6 +1,6 @@
 {
-  "total_generated": 181,
-  "last_reciter_idx": 13,
+  "total_generated": 182,
+  "last_reciter_idx": 0,
   "last_surah": 1,
   "last_ayah": 0,
   "last_generated": null,
@@ -1814,6 +1814,16 @@
       "duration": 52.2,
       "video_id": null,
       "date": "2026-11-19 07:42:54"
+    },
+    {
+      "surah": 89,
+      "surah_name": "الفجر",
+      "start_ayah": 25,
+      "end_ayah": 30,
+      "reciter": "عبدالباسط عبدالصمد (مرتل)",
+      "duration": 53.2,
+      "video_id": null,
+      "date": "2026-11-19 14:43:14"
     }
   ]
 }
