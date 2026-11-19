@@ -1,6 +1,6 @@
 {
-  "total_generated": 183,
-  "last_reciter_idx": 1,
+  "total_generated": 184,
+  "last_reciter_idx": 2,
   "last_surah": 1,
   "last_ayah": 0,
   "last_generated": null,
@@ -1834,6 +1834,16 @@
       "duration": 42.1,
       "video_id": null,
       "date": "2026-11-19 19:39:35"
+    },
+    {
+      "surah": 102,
+      "surah_name": "التكاثر",
+      "start_ayah": 6,
+      "end_ayah": 8,
+      "reciter": "محمد صديق المنشاوي (مرتل)",
+      "duration": 38.8,
+      "video_id": null,
+      "date": "2026-11-19 23:39:06"
     }
   ]
 }
