@@ -1,6 +1,6 @@
 {
-  "total_generated": 186,
-  "last_reciter_idx": 4,
+  "total_generated": 187,
+  "last_reciter_idx": 5,
   "last_surah": 1,
   "last_ayah": 0,
   "last_generated": null,
@@ -1864,6 +1864,16 @@
       "duration": 58.8,
       "video_id": null,
       "date": "2026-11-20 14:23:00"
+    },
+    {
+      "surah": 87,
+      "surah_name": "الأعلى",
+      "start_ayah": 4,
+      "end_ayah": 14,
+      "reciter": "مشاري العفاسي",
+      "duration": 59.2,
+      "video_id": null,
+      "date": "2026-11-20 19:18:47"
     }
   ]
 }
