@@ -1,6 +1,6 @@
 {
-  "total_generated": 191,
-  "last_reciter_idx": 9,
+  "total_generated": 192,
+  "last_reciter_idx": 10,
   "last_surah": 1,
   "last_ayah": 0,
   "last_generated": null,
@@ -1914,6 +1914,16 @@
       "duration": 61.4,
       "video_id": null,
       "date": "2026-11-21 18:16:33"
+    },
+    {
+      "surah": 100,
+      "surah_name": "العاديات",
+      "start_ayah": 9,
+      "end_ayah": 11,
+      "reciter": "ياسر الدوسري",
+      "duration": 39.9,
+      "video_id": null,
+      "date": "2026-11-21 22:14:26"
     }
   ]
 }
