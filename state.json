@@ -1,6 +1,6 @@
 {
-  "total_generated": 190,
-  "last_reciter_idx": 8,
+  "total_generated": 191,
+  "last_reciter_idx": 9,
   "last_surah": 1,
   "last_ayah": 0,
   "last_generated": null,
@@ -1904,6 +1904,16 @@
       "duration": 45.4,
       "video_id": null,
       "date": "2026-11-21 13:45:02"
+    },
+    {
+      "surah": 79,
+      "surah_name": "النازعات",
+      "start_ayah": 6,
+      "end_ayah": 19,
+      "reciter": "سعد الغامدي",
+      "duration": 61.4,
+      "video_id": null,
+      "date": "2026-11-21 18:16:33"
     }
   ]
 }
