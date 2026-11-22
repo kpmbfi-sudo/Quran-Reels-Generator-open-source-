@@ -1,6 +1,6 @@
 {
-  "total_generated": 194,
-  "last_reciter_idx": 12,
+  "total_generated": 195,
+  "last_reciter_idx": 13,
   "last_surah": 1,
   "last_ayah": 0,
   "last_generated": null,
@@ -1944,6 +1944,16 @@
       "duration": 31.5,
       "video_id": null,
       "date": "2026-11-22 13:36:52"
+    },
+    {
+      "surah": 69,
+      "surah_name": "الحاقة",
+      "start_ayah": 15,
+      "end_ayah": 23,
+      "reciter": "أبو بكر الشاطري",
+      "duration": 60.4,
+      "video_id": null,
+      "date": "2026-11-22 18:41:29"
     }
   ]
 }
