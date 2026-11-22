@@ -1,6 +1,6 @@
 {
-  "total_generated": 195,
-  "last_reciter_idx": 13,
+  "total_generated": 196,
+  "last_reciter_idx": 0,
   "last_surah": 1,
   "last_ayah": 0,
   "last_generated": null,
@@ -1954,6 +1954,16 @@
       "duration": 60.4,
       "video_id": null,
       "date": "2026-11-22 18:41:29"
+    },
+    {
+      "surah": 81,
+      "surah_name": "التكوير",
+      "start_ayah": 15,
+      "end_ayah": 27,
+      "reciter": "عبدالباسط عبدالصمد (مرتل)",
+      "duration": 55.6,
+      "video_id": null,
+      "date": "2026-11-22 22:32:05"
     }
   ]
 }
