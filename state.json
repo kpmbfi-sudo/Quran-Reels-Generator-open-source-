@@ -1,6 +1,6 @@
 {
-  "total_generated": 198,
-  "last_reciter_idx": 2,
+  "total_generated": 199,
+  "last_reciter_idx": 3,
   "last_surah": 1,
   "last_ayah": 0,
   "last_generated": null,
@@ -1984,6 +1984,16 @@
       "duration": 59.1,
       "video_id": null,
       "date": "2026-11-23 16:32:39"
+    },
+    {
+      "surah": 108,
+      "surah_name": "الكوثر",
+      "start_ayah": 1,
+      "end_ayah": 3,
+      "reciter": "محمد صديق المنشاوي (مجود)",
+      "duration": 23.0,
+      "video_id": null,
+      "date": "2026-11-23 22:55:23"
     }
   ]
 }
