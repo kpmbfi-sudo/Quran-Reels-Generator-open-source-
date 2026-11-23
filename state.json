@@ -1,6 +1,6 @@
 {
-  "total_generated": 196,
-  "last_reciter_idx": 0,
+  "total_generated": 197,
+  "last_reciter_idx": 1,
   "last_surah": 1,
   "last_ayah": 0,
   "last_generated": null,
@@ -1964,6 +1964,16 @@
       "duration": 55.6,
       "video_id": null,
       "date": "2026-11-22 22:32:05"
+    },
+    {
+      "surah": 25,
+      "surah_name": "الفرقان",
+      "start_ayah": 74,
+      "end_ayah": 75,
+      "reciter": "عبدالباسط عبدالصمد (مجود)",
+      "duration": 58.0,
+      "video_id": null,
+      "date": "2026-11-23 07:55:22"
     }
   ]
 }
