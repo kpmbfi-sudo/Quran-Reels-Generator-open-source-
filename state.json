@@ -1,6 +1,6 @@
 {
-  "total_generated": 197,
-  "last_reciter_idx": 1,
+  "total_generated": 198,
+  "last_reciter_idx": 2,
   "last_surah": 1,
   "last_ayah": 0,
   "last_generated": null,
@@ -1974,6 +1974,16 @@
       "duration": 58.0,
       "video_id": null,
       "date": "2026-11-23 07:55:22"
+    },
+    {
+      "surah": 41,
+      "surah_name": "فصلت",
+      "start_ayah": 39,
+      "end_ayah": 40,
+      "reciter": "محمد صديق المنشاوي (مرتل)",
+      "duration": 59.1,
+      "video_id": null,
+      "date": "2026-11-23 16:32:39"
     }
   ]
 }
