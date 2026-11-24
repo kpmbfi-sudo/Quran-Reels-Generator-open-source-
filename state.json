@@ -1,6 +1,6 @@
 {
-  "total_generated": 200,
-  "last_reciter_idx": 4,
+  "total_generated": 201,
+  "last_reciter_idx": 5,
   "last_surah": 1,
   "last_ayah": 0,
   "last_generated": null,
@@ -2004,6 +2004,16 @@
       "duration": 44.5,
       "video_id": null,
       "date": "2026-11-24 03:23:20"
+    },
+    {
+      "surah": 102,
+      "surah_name": "التكاثر",
+      "start_ayah": 1,
+      "end_ayah": 8,
+      "reciter": "مشاري العفاسي",
+      "duration": 48.5,
+      "video_id": null,
+      "date": "2026-11-24 10:07:21"
     }
   ]
 }
