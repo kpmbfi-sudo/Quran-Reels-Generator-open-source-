@@ -1,6 +1,6 @@
 {
-  "total_generated": 201,
-  "last_reciter_idx": 5,
+  "total_generated": 202,
+  "last_reciter_idx": 6,
   "last_surah": 1,
   "last_ayah": 0,
   "last_generated": null,
@@ -2014,6 +2014,16 @@
       "duration": 48.5,
       "video_id": null,
       "date": "2026-11-24 10:07:21"
+    },
+    {
+      "surah": 10,
+      "surah_name": "يونس",
+      "start_ayah": 81,
+      "end_ayah": 83,
+      "reciter": "ماهر المعيقلي",
+      "duration": 47.5,
+      "video_id": null,
+      "date": "2026-11-24 16:23:21"
     }
   ]
 }
