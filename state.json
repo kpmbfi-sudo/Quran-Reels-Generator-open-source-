@@ -1,6 +1,6 @@
 {
-  "total_generated": 199,
-  "last_reciter_idx": 3,
+  "total_generated": 200,
+  "last_reciter_idx": 4,
   "last_surah": 1,
   "last_ayah": 0,
   "last_generated": null,
@@ -1994,6 +1994,16 @@
       "duration": 23.0,
       "video_id": null,
       "date": "2026-11-23 22:55:23"
+    },
+    {
+      "surah": 80,
+      "surah_name": "عبس",
+      "start_ayah": 36,
+      "end_ayah": 42,
+      "reciter": "محمود خليل الحصري",
+      "duration": 44.5,
+      "video_id": null,
+      "date": "2026-11-24 03:23:20"
     }
   ]
 }
