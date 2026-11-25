@@ -1,6 +1,6 @@
 {
-  "total_generated": 206,
-  "last_reciter_idx": 10,
+  "total_generated": 207,
+  "last_reciter_idx": 11,
   "last_surah": 1,
   "last_ayah": 0,
   "last_generated": null,
@@ -2064,6 +2064,16 @@
       "duration": 41.0,
       "video_id": null,
       "date": "2026-11-25 16:02:37"
+    },
+    {
+      "surah": 11,
+      "surah_name": "هود",
+      "start_ayah": 62,
+      "end_ayah": 63,
+      "reciter": "ناصر القطامي",
+      "duration": 54.4,
+      "video_id": null,
+      "date": "2026-11-25 20:41:20"
     }
   ]
 }
