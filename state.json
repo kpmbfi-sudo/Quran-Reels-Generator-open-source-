@@ -1,6 +1,6 @@
 {
-  "total_generated": 209,
-  "last_reciter_idx": 13,
+  "total_generated": 210,
+  "last_reciter_idx": 0,
   "last_surah": 1,
   "last_ayah": 0,
   "last_generated": null,
@@ -2094,6 +2094,16 @@
       "duration": 57.4,
       "video_id": null,
       "date": "2026-11-26 08:38:08"
+    },
+    {
+      "surah": 14,
+      "surah_name": "إبراهيم",
+      "start_ayah": 48,
+      "end_ayah": 52,
+      "reciter": "عبدالباسط عبدالصمد (مرتل)",
+      "duration": 53.8,
+      "video_id": null,
+      "date": "2026-11-26 15:47:18"
     }
   ]
 }
