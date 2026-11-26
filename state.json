@@ -1,6 +1,6 @@
 {
-  "total_generated": 208,
-  "last_reciter_idx": 12,
+  "total_generated": 209,
+  "last_reciter_idx": 13,
   "last_surah": 1,
   "last_ayah": 0,
   "last_generated": null,
@@ -2084,6 +2084,16 @@
       "duration": 31.5,
       "video_id": null,
       "date": "2026-11-26 01:03:21"
+    },
+    {
+      "surah": 5,
+      "surah_name": "المائدة",
+      "start_ayah": 101,
+      "end_ayah": 103,
+      "reciter": "أبو بكر الشاطري",
+      "duration": 57.4,
+      "video_id": null,
+      "date": "2026-11-26 08:38:08"
     }
   ]
 }
