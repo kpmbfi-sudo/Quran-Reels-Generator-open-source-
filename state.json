@@ -1,6 +1,6 @@
 {
-  "total_generated": 207,
-  "last_reciter_idx": 11,
+  "total_generated": 208,
+  "last_reciter_idx": 12,
   "last_surah": 1,
   "last_ayah": 0,
   "last_generated": null,
@@ -2074,6 +2074,16 @@
       "duration": 54.4,
       "video_id": null,
       "date": "2026-11-25 20:41:20"
+    },
+    {
+      "surah": 94,
+      "surah_name": "الشرح",
+      "start_ayah": 2,
+      "end_ayah": 8,
+      "reciter": "أحمد العجمي",
+      "duration": 31.5,
+      "video_id": null,
+      "date": "2026-11-26 01:03:21"
     }
   ]
 }
