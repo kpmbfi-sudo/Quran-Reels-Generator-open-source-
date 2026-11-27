@@ -1,6 +1,6 @@
 {
-  "total_generated": 212,
-  "last_reciter_idx": 2,
+  "total_generated": 213,
+  "last_reciter_idx": 3,
   "last_surah": 1,
   "last_ayah": 0,
   "last_generated": null,
@@ -2124,6 +2124,16 @@
       "duration": 61.4,
       "video_id": null,
       "date": "2026-11-27 01:05:24"
+    },
+    {
+      "surah": 103,
+      "surah_name": "العصر",
+      "start_ayah": 1,
+      "end_ayah": 3,
+      "reciter": "محمد صديق المنشاوي (مجود)",
+      "duration": 46.0,
+      "video_id": null,
+      "date": "2026-11-27 08:49:39"
     }
   ]
 }
