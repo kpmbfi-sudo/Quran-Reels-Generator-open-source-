@@ -1,6 +1,6 @@
 {
-  "total_generated": 216,
-  "last_reciter_idx": 6,
+  "total_generated": 217,
+  "last_reciter_idx": 7,
   "last_surah": 1,
   "last_ayah": 0,
   "last_generated": null,
@@ -2164,6 +2164,16 @@
       "duration": 36.9,
       "video_id": null,
       "date": "2026-11-28 00:35:20"
+    },
+    {
+      "surah": 85,
+      "surah_name": "البروج",
+      "start_ayah": 1,
+      "end_ayah": 11,
+      "reciter": "سعود الشريم",
+      "duration": 58.6,
+      "video_id": null,
+      "date": "2026-11-28 08:02:52"
     }
   ]
 }
