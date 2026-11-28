@@ -1,6 +1,6 @@
 {
-  "total_generated": 215,
-  "last_reciter_idx": 5,
+  "total_generated": 216,
+  "last_reciter_idx": 6,
   "last_surah": 1,
   "last_ayah": 0,
   "last_generated": null,
@@ -2154,6 +2154,16 @@
       "duration": 41.4,
       "video_id": null,
       "date": "2026-11-27 20:18:15"
+    },
+    {
+      "surah": 101,
+      "surah_name": "القارعة",
+      "start_ayah": 1,
+      "end_ayah": 11,
+      "reciter": "ماهر المعيقلي",
+      "duration": 36.9,
+      "video_id": null,
+      "date": "2026-11-28 00:35:20"
     }
   ]
 }
